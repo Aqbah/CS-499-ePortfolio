@@ -1,4 +1,4 @@
-# Computer Science Capstone ePortfolio - Aqbah
+# Computer Science Capstone ePortfolio
 
 **Developer:** Computer Science Graduate  
 **Specialization:** Full-Stack Web Engineering & Mobile Application Architecture  
