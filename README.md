@@ -13,6 +13,8 @@
 * [Software Design & Engineering Enhancement](software-engineering/)
 * [Algorithms & Data Structures Enhancement](algorithms/)
 * [Databases Enhancement](databases/)
+* [Original Files](InventoryAppOriginalAqbah.zip)
+* [Fully Updated Files](InventoryAppEnhancedAqbah.zip)
 
 ---
 
